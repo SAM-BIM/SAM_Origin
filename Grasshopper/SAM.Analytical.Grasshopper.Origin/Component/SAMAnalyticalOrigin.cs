@@ -21,7 +21,7 @@ namespace SAM.Analytical.Grasshopper.Origin
         /// <summary>
         /// Provides an Icon for the component.
         /// </summary>
-        protected override System.Drawing.Bitmap Icon => Resources.SAM_Small;
+        protected override System.Drawing.Bitmap Icon => Resources.SAM_GH_ObjectExport;
 
         //private HashSet<ElementId> elementIds = new HashSet<ElementId>();
 
