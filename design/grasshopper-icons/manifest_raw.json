@@ -1,0 +1,36 @@
+[
+ {
+  "project": "SAM.Analytical.Grasshopper.Origin",
+  "project_dir": "Grasshopper/SAM.Analytical.Grasshopper.Origin",
+  "class": "OriginSAMAnalytical",
+  "base_type": "GH_SAMVariableOutputParameterComponent",
+  "guid": "ba90ef03-01e2-41b2-b941-67472dd341b7",
+  "name": "Origin.SAMAnalytical",
+  "nickname": "Origin.SAMAnalytical",
+  "category": "SAM",
+  "subcategory": "Origin",
+  "icon_expr": "SAM_Small",
+  "icon_holder": "Resources",
+  "icon_via_bytes": false,
+  "exposure": null,
+  "obsolete": false,
+  "source": "Grasshopper/SAM.Analytical.Grasshopper.Origin/Component/OriginSAMAnalytical.cs"
+ },
+ {
+  "project": "SAM.Analytical.Grasshopper.Origin",
+  "project_dir": "Grasshopper/SAM.Analytical.Grasshopper.Origin",
+  "class": "SAMAnalyticalOrigin",
+  "base_type": "GH_SAMVariableOutputParameterComponent",
+  "guid": "7b364f0a-adac-4bc2-b2a4-554bc277c0a8",
+  "name": "SAMAnalytical.Origin",
+  "nickname": "SAMAnalytical.Origin",
+  "category": "SAM",
+  "subcategory": "Origin",
+  "icon_expr": "SAM_Small",
+  "icon_holder": "Resources",
+  "icon_via_bytes": false,
+  "exposure": null,
+  "obsolete": false,
+  "source": "Grasshopper/SAM.Analytical.Grasshopper.Origin/Component/SAMAnalyticalOrigin.cs"
+ }
+]
