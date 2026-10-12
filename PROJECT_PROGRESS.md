@@ -9,6 +9,7 @@
 - Cleanup: remote docs/agent-instructions-rollout-q4 deleted with an expected-SHA lease on 8568ee0ec6631419e7ee779a4a0c695083be096b after confirming it is contained in sow/2026-Q4 and no open PR uses it as head or base; the local branch and its worktree are preserved (worktree in use). Other branches, worktrees and the frozen quarters were not touched.
 - Remaining gaps: no agent-client behaviour or token benchmark has been run.
 - Exact next step: Owner sets Q4 priorities for this repository and records them here; start each task from `AGENTS.md` and this file, with feature branches and owner-reviewed PRs.
+
 ## Branch
 
 `sow/2026-Q4` - created 2026-10-11 directly from `master` (see `AGENTS.md` Branch context). Frozen Q3 record: `sow/2026-Q3` (not modified).
